@@ -21,4 +21,4 @@ Iceland has always held a special place in my heart. Its captivating landscapes,
 
 ---
 
-[Know More] https://github.com/varshi-28/my2-Lavu/tree/main
+[Know More] https://github.com/varshi-28/my2-Lavu/blob/main/MyStats.md
