@@ -27,7 +27,7 @@ Sports are my stress busters and i recommend these games .
 ## code snippet
 
 
-> how to get users ip adress in php?[](https://stackoverflow.com/questions/3003145/how-to-get-the-client-ip-address-in-php)
+> [ how to get users ip adress in php?](https://stackoverflow.com/questions/3003145/how-to-get-the-client-ip-address-in-php)
 
 ```
 if (!empty($_SERVER['HTTP_CLIENT_IP'])) {
@@ -38,4 +38,4 @@ if (!empty($_SERVER['HTTP_CLIENT_IP'])) {
      $ip=$_SERVER['REMOTE_ADDR'];
 }
 ```
-[](https://css-tricks.com/snippets/php/get-users-ip-address/)
+[  ](https://css-tricks.com/snippets/php/get-users-ip-address/)
