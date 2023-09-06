@@ -9,28 +9,33 @@ ni table gurinchi raskoo
  
 | Name of the sport  |  Reason to recommend   | Hours spent/week |
 | :--------------:    | :--------------:      | :--------------: |
-| ghj          | cfvgb        | 6                |
-| dfcgvhb              | fcvg      |3                 |
-| dfcgvh              | vgb            | 7                |
-|  vgvhb            | vb      | 7                  |
+| Swimming        | Provides a whole body workout       |6        |
+| Diving              | IMPROVES BLOOD CIRCULATION.      |3                 |
+| Wrestling       | Increased Strength and Endurance|        2               |
+|  Hockey            | Builds muscular strength        | 2                  |
 
 ---
 
 # Quotes by scientists
-> *Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning.*
->>    -Albert Einstein 
+> **It is strange that only extraordinary men make the discoveries, which later appear so easy and simple.**
+>>    *-Georg C. Lichtenberg*
 
-> *Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.*
->>    -Marie Curie
+> **There is no law except the law that there is no law.**
+>> *- John Archibald Wheeler*
 
 ---
 ## code snippet
 
 
-> how to add  comment tags  in html? < https://stackoverflow.com/questions/5926580/html-comments-inside-opening-tag-of-the-element >
+> how to get users ip adress in php? < https://stackoverflow.com/questions/3003145/how-to-get-the-client-ip-address-in-php >
 
-<div id="header">
-   <p>Stuff</p>
-</div> <!-- stuff--> 
-
-< https://css-tricks.com/snippets/html/comments-in-html/>
+```
+if (!empty($_SERVER['HTTP_CLIENT_IP'])) {
+     $ip=$_SERVER['HTTP_CLIENT_IP'];
+} elseif (!empty($_SERVER['HTTP_X_FORWARDED_FOR'])) {
+     $ip=$_SERVER['HTTP_X_FORWARDED_FOR'];
+} else {
+     $ip=$_SERVER['REMOTE_ADDR'];
+}
+```
+< https://css-tricks.com/snippets/php/get-users-ip-address/>
