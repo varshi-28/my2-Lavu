@@ -10,15 +10,15 @@ Iceland has always held a special place in my heart. Its captivating landscapes,
   ##  preferences and food items in vacation spot
  
 1.  Todo list 
-    1. wandering 
-    2. learning to learn language 
-    3. jhgfdcvbnjuytfgvb
+    1. Exploring Glaciers
+    2. Capturing Natural Wonders 
+    3. Creating cherished memories
 
-* yummy yummy food 
-    * khgvhj
-    * ncgvh
-    * gfhbhvg
+* Bucket List 
+    * Iceland Lamb
+    * Bollur
+    * Sker
 
 ---
 
-[bvcfgghb] https://github.com/varshithanalluri/my2-Nalluri/blob/main/MyStats.md
+[Know More] https://github.com/varshi-28/my2-Lavu/tree/main
