@@ -38,4 +38,4 @@ if (!empty($_SERVER['HTTP_CLIENT_IP'])) {
      $ip=$_SERVER['REMOTE_ADDR'];
 }
 ```
-[  ](https://css-tricks.com/snippets/php/get-users-ip-address/)
+[find the snippet here](https://css-tricks.com/snippets/php/get-users-ip-address/)
