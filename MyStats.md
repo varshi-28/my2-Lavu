@@ -1,6 +1,6 @@
 # Varshitha lavu
 Adhoti paragraph raskoo . <br>same raskoo inkoti.<br>
-[Wanna See] https://github.com/varshi-28/my2-Lavu/blob/main/WhatsApp%20Image%202023-09-05%20at%207.38.40%20PM.jpeg
+[Wanna See](https://github.com/varshi-28/my2-Lavu/blob/main/WhatsApp%20Image%202023-09-05%20at%207.38.40%20PM.jpeg)
 
 ---
 
