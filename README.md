@@ -7,7 +7,7 @@ Iceland has always held a special place in my heart. Its captivating landscapes,
 
 ---
 
-  ##  preferences and food items in vacation spot
+  ##  Preferences and food items in vacation spot
  
 1.  Todo list 
     1. Exploring Glaciers
