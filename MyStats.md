@@ -1,11 +1,11 @@
-# Name raskoo
+# Varshitha lavu
 Adhoti paragraph raskoo . <br>same raskoo inkoti.<br>
-[ ] https://github.com/varshithanalluri/my2-Nalluri/blob/main/image.jfif
+[ Innocent me] https://github.com/varshi-28/my2-Lavu/blob/main/WhatsApp%20Image%202023-09-05%20at%207.38.40%20PM.jpeg
 
 ---
 
 # Tables 
-ni table gurinchi raskoo
+Sports are my stress busters and i recommend these games .
  
 | Name of the sport  |  Reason to recommend   | Hours spent/week |
 | :--------------:    | :--------------:      | :--------------: |
@@ -27,7 +27,7 @@ ni table gurinchi raskoo
 ## code snippet
 
 
-> how to get users ip adress in php? < https://stackoverflow.com/questions/3003145/how-to-get-the-client-ip-address-in-php >
+> how to get users ip adress in php?[](https://stackoverflow.com/questions/3003145/how-to-get-the-client-ip-address-in-php)
 
 ```
 if (!empty($_SERVER['HTTP_CLIENT_IP'])) {
@@ -38,4 +38,4 @@ if (!empty($_SERVER['HTTP_CLIENT_IP'])) {
      $ip=$_SERVER['REMOTE_ADDR'];
 }
 ```
-< https://css-tricks.com/snippets/php/get-users-ip-address/>
+[](https://css-tricks.com/snippets/php/get-users-ip-address/)
