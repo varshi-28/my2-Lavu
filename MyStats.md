@@ -1,5 +1,5 @@
 # Varshitha lavu
-Adhoti paragraph raskoo . <br>same raskoo inkoti.<br>
+I have a strong interest in HTML and aspire to become a web developer.  <br>Recently, I've also developed a fascination for Markdown, and I'm eager to explore it further through experimentation.<br>
 [Wanna See](https://github.com/varshi-28/my2-Lavu/blob/main/WhatsApp%20Image%202023-09-05%20at%207.38.40%20PM.jpeg)
 
 ---
