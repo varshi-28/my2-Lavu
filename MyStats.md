@@ -1,5 +1,5 @@
 # Varshitha lavu
-I have a strong interest in HTML and aspire to become a web developer.  <br>Recently, I've also developed a fascination for Markdown, and I'm eager to explore it further through experimentation.<br>
+I am a caninophile, someone who loves dogs, and I am also an opacarophile, someone who loves sunsets.  <br>"In terms of technical interests, I have a strong passion for HTML and aspire to become a web developer. Lately, I've also been captivated by Markdown and am eager to explore it further through experimentation.<br>
 ![Wanna See](https://github.com/varshi-28/my2-Lavu/blob/main/WhatsApp%20Image%202023-09-05%20at%207.38.40%20PM.jpeg)
 
 ---
