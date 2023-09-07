@@ -1,5 +1,5 @@
 # Varshitha lavu
-I am a caninophile, someone who loves dogs, and I am also an opacarophile, someone who loves sunsets.  <br>"In terms of technical interests, I have a strong passion for HTML and aspire to become a web developer. Lately, I've also been captivated by Markdown and am eager to explore it further through experimentation.<br>
+Generally, I'm an introvert who values exploration over expression. While I cherish moments of quiet introspection, I'm also deeply passionate about two things: dogs and the serene beauty of nature. I'm a caninophile, which means I have an abiding love for dogs, and I'm equally a naturephile, captivated by the breathtaking allure of the natural world. These passions bring joy and wonder to my life.  <br>"In terms of technical interests, I have a strong passion for HTML and aspire to become a web developer. Lately, I've also been captivated by Markdown and am eager to explore it further through experimentation.<br>
 ![Wanna See](https://github.com/varshi-28/my2-Lavu/blob/main/WhatsApp%20Image%202023-09-05%20at%207.38.40%20PM.jpeg)
 
 ---
